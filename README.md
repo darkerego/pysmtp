@@ -13,7 +13,7 @@ Reading test.msg as email file
 Connecting to SMTP server at smtp.sendgrid.net:25
 Attempting Authentication...
 Setting From header to: Admin<admin@localhost>
-Setting Subject header to: Words Found
+Setting Subject header to: Send Email With Python!
 Email Sent to somebody@protonmail.com
 >>>
 
